@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Arvind Bakshi. I Am Senior Software Engineer at <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQG_IZ4vSlsYfw/company-logo_100_100/0/1634115671849?e=1645660800&v=beta&t=98RnesYvE0C_Kao7QLblWSaHxYjesyKruzkKecXiT8E" width="20px" height="20px"/> Visa
+- 👋 Hi, My name is Arvind Bakshi. I Am Senior Software Engineer at <img src="https://cdn.visa.com/v2/assets/images/logos/visa/blue/logo.png" width="20px" height="20px"/> Visa
 - 👀 I’m interested in Research & Development
 - 🌱 I’m currently learning Full Stack Web Application Development
 - 💞️ I’m looking to collaborate on Full Stack web Application development using Springboot, React/Angular JS, Docker, Kubernetes, GCP/AWS etc.
